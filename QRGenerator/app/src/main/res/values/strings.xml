@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">QRGenerator</string>
+    <string name="enter_text">Enter text...</string>
+    <string name="generate">Generate</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="qr_scanner">QR Scanner</string>
+    <string name="qr_generator">QR Generator</string>
+</resources>
